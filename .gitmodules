@@ -1,0 +1,15 @@
+[submodule "lib/Adafruit_GFX_Library"]
+	path = lib/Adafruit_GFX_Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "lib/Adafruit_BusIO"]
+	path = lib/Adafruit_BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO.git
+[submodule "lib/Adafruit_SSD1306"]
+	path = lib/Adafruit_SSD1306
+	url = https://github.com/adafruit/Adafruit_SSD1306.git
+[submodule "lib/AsyncTCP"]
+	path = lib/AsyncTCP
+	url = https://github.com/me-no-dev/AsyncTCP.git
+[submodule "lib/ESPAsyncWebServer"]
+	path = lib/ESPAsyncWebServer
+	url = https://github.com/me-no-dev/ESPAsyncWebServer.git
